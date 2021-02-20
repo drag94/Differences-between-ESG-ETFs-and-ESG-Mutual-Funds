@@ -1,4 +1,4 @@
-Creator: **Davide Liso**
+Author: **Davide Liso**
 
 **CONTEXT**\
 This project aims to provide an analysis on the differences between european ETFs and european Mutual Funds that have decided to invest
@@ -24,7 +24,7 @@ company operates. The points taken into consideration also change, based on the 
 company.\
 
 
-Ceatore: **Davide Liso**
+Autore: **Davide Liso**
 
 **CONTESTO**  
 Questo progetto mira a fornire un’analisi dei dati sulle differenze tra ETF e Mutual Funds europee che hanno deciso di investire anche secondo
