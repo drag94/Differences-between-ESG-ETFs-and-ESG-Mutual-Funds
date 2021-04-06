@@ -1,4 +1,4 @@
-Author: **Davide Liso**
+Author: **Davide Liso** [Differences between ESG ETFs and ESG Mutual Funds (Europe)](https://github.com/drag94/Differences-between-ESG-ETFs-and-ESG-Mutual-Funds/blob/main/Differences%20between%20ESG%20ETFs%20and%20ESG%20Mutual%20Funds%20(Europe).pdf).pdf
 
 **CONTEXT**\
 This project aims to provide an analysis on the differences between european ETFs and european Mutual Funds that have decided to invest
@@ -24,7 +24,7 @@ company operates. The points taken into consideration also change, based on the 
 company.\
 
 
-Autore: **Davide Liso**
+Autore: **Davide Liso** [Differenze tra ESG ETF e ESG Fondi comuni (Europa)](https://github.com/drag94/Differences-between-ESG-ETFs-and-ESG-Mutual-Funds/blob/main/Differenze%20etf%20esg%20e%20fondi%20comuni%20esg%20(Europei)%20.pdf).pdf
 
 **CONTESTO**  
 Questo progetto mira a fornire un’analisi dei dati sulle differenze tra ETF e Mutual Funds europee che hanno deciso di investire anche secondo
